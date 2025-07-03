@@ -16,10 +16,10 @@ export default defineConfig({
 						{ label: 'Kanban', slug: 'guides/kanban' },
 					],
 				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
+				// {
+				// 	label: 'Reference',
+				// 	autogenerate: { directory: 'reference' },
+				// },
 			],
 		}),
 	],
