@@ -1,27 +1,16 @@
 ---
 title: Kanban Guide (May 2025)
 description: This document aims to be a unifying reference for the community by offering the minimal guidance for Kanban. Depending on the context, various approaches can complement Kanban, allowing it to accommodate the full spectrum of value delivery and organizational challenges.
+slug: guides/kanban
 ---
 
 :::note
 This document is currently reproduced verbatim.
 :::
 
-Author:
-- Daniel Vacanti
-- John Coleman
+**Authors:** Daniel Vacanti, John Coleman
 
-Contributors:
-- Daniel Vacanti
-- John Coleman
-- Julia Wester
-- Colleen Johnson
-- Prateek Singh
-- Christian Neverdal
-- Magdalena Firlit
-- Tom Gilb
-- Steve Tendon
----
+**Contributors:** Daniel Vacanti, John Coleman, Julia Wester, Colleen Johnson, Prateek Singh, Christian Neverdal, Magdalena Firlit, Tom Gilb, Steve Tendon
 
 ## Preface
 
